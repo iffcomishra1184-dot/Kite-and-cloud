@@ -1,0 +1,8 @@
+{
+  "name": "Kite and cloud ",
+  "description": "A comforting, playful, offline-friendly emotional check-in and stress-relief space for students and teens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
